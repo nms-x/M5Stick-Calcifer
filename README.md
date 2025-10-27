@@ -39,7 +39,7 @@ On the first run the GIF is written to LittleFS; if the file already exists and 
 
 ## Replacing the animation
 
-1. Prepare a GIF (preferably ≤ 498 pixels wide to stay within decoder limits).
+1. Prepare a GIF (preferably 240 pixels wide).
 2. Convert it to a header:
    ```bash
    xxd -i custom.gif > screensaver_gif.h

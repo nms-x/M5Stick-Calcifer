@@ -1,9 +1,6 @@
 # M5Stick-Calcifer
 🔥 Calcifer Screensaver — a warm little fire spirit living inside your M5StickC Plus 2.
 
-
-# M5Stick — Calcifer
-
 “Calcifer” is a playful sketch for the M5StickC Plus2 that plays an embedded GIF from LittleFS and keeps the display aligned with the device orientation. The firmware handles rotations both in the screen plane (button A on the left/right) and front/back flips. Orientation lock is just a button press away.
 
 This project was created as an experimental build with the CODEX assistant: it started as a fun playground, yet the codebase is tidy and ready for further expansion.
